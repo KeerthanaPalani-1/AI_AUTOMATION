@@ -1,4 +1,4 @@
-AI Automation Agent (PoC)
+AI Automation Agent 
 
 AI Automation Agent is a Proof-of-Concept project demonstrating AI-powered document processing and validation for our organization. It uses large language models (LLMs) and semantic embeddings to read, analyze, and validate document content automatically.
 
